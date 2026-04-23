@@ -8,3 +8,5 @@ def generateOTP() :
     return OTP
 if __name__ == "__main__" :
  print("OTP of 6 digits:", generateOTP())
+
+"sample change-1"

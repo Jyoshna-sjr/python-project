@@ -35,3 +35,4 @@ print(type(name))
 age = input("enter the age")
 print("age is:",age)
 print(type(age))
+"Hi"
